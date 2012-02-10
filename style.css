@@ -1,0 +1,29 @@
+.slide {
+  background: #EEE;
+}
+
+.subsection h1 {
+  background:#4F8D37;
+  color:white;
+}
+
+h1 {
+  color:#4F8D37;
+}
+
+body {
+  background-color:#ECE3D2;
+}
+
+a {
+  color:#4F8D37;
+  font-weight:bold;
+}
+
+a:visited {
+  color:#4F8D37;
+}
+
+pre.sh_sourceCode {
+  font-size:180%;
+}
