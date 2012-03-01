@@ -1,0 +1,3 @@
+h2. Innku Testing Presentation
+
+ This is a small spanish presentation written with showoff. The presentation was about ways to improve testing in the company. We talked about tests in models, controllers, mailers, and so on.
